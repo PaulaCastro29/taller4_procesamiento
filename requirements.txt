@@ -1,0 +1,9 @@
+numpy == 1.19.3
+opencv-contrib-python == 4.4.0.46
+opencv-python == 4.4.0.46
+random
+sys
+os
+from hough import Hough
+from orientation_methods import gradient_map
+
